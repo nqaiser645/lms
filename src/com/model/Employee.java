@@ -2,11 +2,12 @@ package com.model;
 
 public class Employee {
 
-	int id;
-	String name;
+	private int id;
+	private String name;
 	
-	public Employee() {
-		// TODO Auto-generated constructor stub
+	public Employee()
+	{
+	
 	}
 	
 	
