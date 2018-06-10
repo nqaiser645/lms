@@ -1,5 +1,6 @@
 package in.apedusoft.lms.model;
 
+import java.io.Serializable;
 import java.util.Date;
 
 import javax.persistence.Column;
@@ -9,8 +10,13 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="registration")
-public class Registration {
+public class Registration implements Serializable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
 	@Id
 	@Column(name="id",nullable= false)
 	private int id;
