@@ -461,19 +461,19 @@
 				Working Status</h2>
 			<div class="col-md-4">
 				<img
-					src="Images/Users/AAEAAQAAAAAAAANMAAAAJGM4YWQ0MzVlLTExYmUtNDBhNy04Njg0LWNjODk3ZTJmNmNlOA.jpg"
+					src="static/images/users/AAEAAQAAAAAAAANMAAAAJGM4YWQ0MzVlLTExYmUtNDBhNy04Njg0LWNjODk3ZTJmNmNlOA.jpg"
 					class="img-circle col-xs-6" />
 				<h3>Mr. Anil</h3>
 				<label>Enrolled Status:</label> <label>Visited Status:</label>
 			</div>
 			<div class="col-md-4">
-				<img src="Images/Users/ae3a8b19155f027a06235efcdd92477e.jpg"
+				<img src="static/images/users/ae3a8b19155f027a06235efcdd92477e.jpg"
 					class="img-circle col-xs-6" />
 				<h3>Mr. Rajveer</h3>
 				<label>Enrolled Status:</label> <label>Visited Status:</label>
 			</div>
 			<div class="col-md-4">
-				<img src="Images/Users/9.-Ha-Nui-Lee.jpg"
+				<img src="static/images/users/9.-Ha-Nui-Lee.jpg"
 					class="img-circle col-xs-6" />
 				<h3>Mr. Aantika</h3>
 				<label>Enrolled Status:</label> <label>Visited Status:</label>
