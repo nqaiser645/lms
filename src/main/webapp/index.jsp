@@ -1,4 +1,4 @@
-< HEAD
+
 <!doctype html>
 <html>
 <head>
@@ -1383,4 +1383,4 @@ $(document).ready(function(){
 <%
 	response.sendRedirect("login");
 %>
->
+
