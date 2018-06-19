@@ -145,7 +145,7 @@ span.pwd {
 
 <div id="id01" class="modal">
   
-  <form class="modal-content animate" action="./login" method="post">
+  <form class="modal-content animate" action="/loginProcess" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('myModal').style.display='non'" class="close" title="Close Modal">&times;</span>
       <btn onclick="document.getElementById('myBtn').style.display='block'" class="open" title="Close Modal">&times;</btn>
